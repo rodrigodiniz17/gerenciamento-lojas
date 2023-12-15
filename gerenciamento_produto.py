@@ -4,8 +4,8 @@
   Produtos
 {% endblock %}
 
-{% block css %}
-  <!-- Include your custom CSS styles here if needed -->
+{% block css %} 
+
   <style>
     body {
       background-color: #1d7fe0;
@@ -23,11 +23,11 @@
 
     h2 {
       margin-bottom: 20px;
-      color: #007bff; /* Blue color */
+      color: #007bff; 
     }
 
     label {
-      color: #495057; /* Dark gray color */
+      color: #495057; 
     }
 
     button {
@@ -37,7 +37,7 @@
     }
 
     button:hover {
-      background-color: #0056b3; /* Darker blue color on hover */
+      background-color: #0056b3; 
     }
   </style>
 {% endblock %}
